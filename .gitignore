@@ -1,0 +1,10 @@
+# Template gốc của lab (tài liệu giảng viên) — giữ local để chạy scripts, không nộp
+lab_files/
+*.zip
+# File khoá tạm của Office
+~$*
+
+# One-Pager bản DOCX (nguồn để sửa) — chỉ nộp bản PDF theo mục 6.1
+*.docx
+# Script dựng file (dùng local, không thuộc artefact nộp theo mục 6.1)
+scripts/
